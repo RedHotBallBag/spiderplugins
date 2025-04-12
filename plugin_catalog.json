@@ -1,20 +1,14 @@
 [
   {
-    "id": "advanced_creator_v1",
-    "name": "Advanced Project Creator",
-    "description": "Creates new Scrapy projects with templates and initial settings.",
-    "author": "Paul Cullum/AI",
-    "version": "1.0.2",
-    "filename": "advanced_project_creator_plugin.py",
-    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/advanced_project_creator_plugin.py"
+    "id": "visual_assembler_v1.1", // Maybe update ID if structure changes
+    "name": "Visual Spider Assembler",
+    "description": "Drag & drop Scrapy code snippets onto the editor.",
+    "author": "Your Name/AI",
+    "version": "1.1.0",
+    "filename": "visual_assembler_plugin.py",
+    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/v1.1.0/visual_assembler_plugin.py", // URL for the new version
+    "changelog": "- Added Item Loader snippet.\n- Fixed issue with XPath generation.", // Simple multi-line changelog
+    "release_notes_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/tag/v1.1.0" // Optional link
   },
-    {
-    "id": "tutorial_classroom_v1",
-    "name": "Tutorial Classroom",
-    "description": "Adds a tab with curated Scrapy video tutorials.",
-    "author": "Paul Cullum/AI",
-    "version": "1.0.0",
-    "filename": "tutorial_classroom_plugin.py",
-    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/tutorial_classroom_plugin.py"
-  }
+  
 ]
