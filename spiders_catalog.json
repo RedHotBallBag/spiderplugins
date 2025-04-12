@@ -11,44 +11,5 @@
       "download_url": "https://raw.githubusercontent.com/RedHotBallBag/spiderplugins/refs/heads/main/Spiders/books_basic_spider.py",
       "dependencies": [],
       "notes": "Good starting point for simple catalog sites."
-    },
-    {
-      "id": "quotes_toscrape_js_v1",
-      "name": "QuotesToScrape JS (Playwright)",
-      "description": "Scrapes quotes from the JavaScript-rendered version of quotes.toscrape.com. Requires Playwright integration to handle dynamic content loading.",
-      "target_websites": ["quotes.toscrape.com/js"],
-      "author": "Scrapy-Playwright Docs / Modified",
-      "version": "1.0.0",
-      "tags": ["intermediate", "quotes", "javascript", "playwright", "dynamic content"],
-      "filename": "quotes_js_playwright_spider.py",
-      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/spider_repository/quotes_js_playwright_spider.py",
-      "dependencies": ["scrapy-playwright"],
-      "notes": "Requires Playwright setup (run 'playwright install'). Project settings need DOWNLOAD_HANDLERS and TWISTED_REACTOR configured for Playwright."
-    },
-    {
-      "id": "quotes_toscrape_scroll_v1",
-      "name": "QuotesToScrape Infinite Scroll (Playwright)",
-      "description": "Scrapes quotes from the infinite scrolling page on quotes.toscrape.com. Uses Playwright's async capabilities to trigger scrolling actions.",
-      "target_websites": ["quotes.toscrape.com/scroll"],
-      "author": "Example Hub Contributor",
-      "version": "1.0.0",
-      "tags": ["advanced", "quotes", "javascript", "playwright", "infinite scroll", "async"],
-      "filename": "quotes_scroll_playwright_spider.py",
-      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/spider_repository/quotes_scroll_playwright_spider.py",
-      "dependencies": ["scrapy-playwright"],
-      "notes": "Demonstrates async page interaction. Requires Playwright setup."
-    },
-      {
-      "id": "httpbin_api_v1",
-      "name": "Httpbin API Example",
-      "description": "A simple spider that makes a request to httpbin.org/get and yields the JSON response. Good template for basic API scraping.",
-      "target_websites": ["httpbin.org"],
-      "author": "Example Hub Contributor",
-      "version": "1.0.0",
-      "tags": ["beginner", "api", "json", "httpbin"],
-      "filename": "httpbin_spider.py",
-      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/spider_repository/httpbin_spider.py",
-      "dependencies": [],
-      "notes": "Change start_urls and parsing logic for your target API."
     }
-  ]
+]
