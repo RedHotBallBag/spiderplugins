@@ -8,6 +8,6 @@
     "filename": "visual_assembler_plugin.py",
     "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/v1.1.0/visual_assembler_plugin.py", 
     "changelog": "- Added Item Loader snippet.\n- Fixed issue with XPath generation.",
-    "release_notes_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/tag/v1.1.0",
+    "release_notes_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/tag/v1.1.0"
   },
 ]
