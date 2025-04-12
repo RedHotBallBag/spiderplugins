@@ -1,19 +1,10 @@
 [
   {
-    "id": "visual_assembler_v1",
-    "name": "Visual Spider Assembler",
-    "description": "Drag & drop Scrapy code snippets onto the editor.",
-    "author": "Your Name/AI",
-    "version": "1.0.0",
-    "filename": "visual_assembler_plugin.py",
-    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/visual_assembler_plugin.py"
-  },
-  {
     "id": "advanced_creator_v1",
     "name": "Advanced Project Creator",
     "description": "Creates new Scrapy projects with templates and initial settings.",
-    "author": "Your Name/AI",
-    "version": "1.0.1",
+    "author": "Paul Cullum/AI",
+    "version": "0.0.1",
     "filename": "advanced_project_creator_plugin.py",
     "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/advanced_project_creator_plugin.py"
   },
@@ -21,18 +12,9 @@
     "id": "tutorial_classroom_v1",
     "name": "Tutorial Classroom",
     "description": "Adds a tab with curated Scrapy video tutorials.",
-    "author": "Your Name/AI",
+    "author": "Paul Cullum/AI",
     "version": "1.0.0",
     "filename": "tutorial_classroom_plugin.py",
     "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/tutorial_classroom_plugin.py"
-  },
-   {
-    "id": "scrapy_quiz_v1",
-    "name": "Scrapy Quiz",
-    "description": "Test your Scrapy knowledge with this interactive quiz.",
-    "author": "Your Name/AI",
-    "version": "1.0.0",
-    "filename": "scrapy_quiz_plugin.py",
-    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/scrapy_quiz_plugin.py"
   }
 ]
