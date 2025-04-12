@@ -4,7 +4,7 @@
     "name": "Advanced Project Creator",
     "description": "Creates new Scrapy projects with templates and initial settings.",
     "author": "Paul Cullum/AI",
-    "version": "0.0.1",
+    "version": "1.0.2",
     "filename": "advanced_project_creator_plugin.py",
     "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/available_plugins/advanced_project_creator_plugin.py"
   },
