@@ -305,7 +305,7 @@ class Plugin(PluginBase):
         super().__init__()
         self.name = "Visual Spider Assembler"
         self.description = "Drag & drop Scrapy code snippets onto the editor."
-        self.version = "1.0.0"
+        self.version = "1.0.1"
         self.main_window = None
         self.builder_widget = None
         self.original_editor_methods = {} # To store original methods if patching
