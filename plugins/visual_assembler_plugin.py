@@ -919,7 +919,7 @@ class Plugin(PluginBase):
         self.description = "Drag & drop Scrapy code snippets onto the editor."
 
 
-        self.version = "1.0.1"
+        self.version = "1.1.0"
 
 
         self.main_window = None
