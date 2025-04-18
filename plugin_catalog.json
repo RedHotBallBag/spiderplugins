@@ -9,5 +9,15 @@
     "download_url": "https://raw.githubusercontent.com/RedHotBallBag/spiderplugins/refs/heads/main/plugins/visual_assembler_plugin.py", 
     "changelog": "- Added Item Loader snippet.\n- Fixed issue with XPath generation.",
     "release_notes_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/tag/v1.1.0"
+  },{
+    "id": "console_plugin_v1.0",
+    "name": "Console",
+    "description": "See app console for debuging.",
+    "author": "Paul Cullum",
+    "version": "1.0.0",
+    "filename": "console_plugin.py",
+    "download_url": "https://raw.githubusercontent.com/RedHotBallBag/spiderplugins/refs/heads/main/plugins/console_plugin.py", 
+    "changelog": "First Release.",
+    "release_notes_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/tag/v1.1.0"
   }
 ]
